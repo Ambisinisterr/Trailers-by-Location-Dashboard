@@ -9,5 +9,5 @@ While TMW provides the means to research trailer locations there is no one stop 
 
 # Final Product
 
-[Insert Image]
+<img src="https://github.com/Ambisinisterr/Trailers-by-Location-Dashboard/blob/main/assets/TrailersByLocationDashboard.jpg?raw=true">
 
